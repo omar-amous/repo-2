@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+.dflex {
+    display: flex;
+}
+
+header {
+}
+
+.logo {
+    width: 200px;
+}
+
+.main {
+    width: 3rem;
+}
+
+.div_offre {
+    
+}
+
+.fond {
+    background-image: url(/assets/backround1.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 100rem;
+    
+}
